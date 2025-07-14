@@ -1,3 +1,104 @@
+# Buffett & Graham GPTs
+
+**An AI investment advisor based on the philosophies of Warren Buffett and Benjamin Graham.**  
+[View Buffett & Graham GPTs on ChatGPT](https://chatgpt.com/share/687059ff-86b4-8009-b71e-b9cd0c5fb70a)
+
+---
+
+## 📖 Overview
+
+**Buffett & Graham GPTs** is a conversational AI investment advisor powered by the principles and theories of legendary investors Warren Buffett and Benjamin Graham.
+
+- Designed for investors from beginners to advanced levels
+- Provides engaging dialogue where Buffett and Graham discuss and explain topics together
+- Offers both quantitative and qualitative analysis of investments
+- Capable of summarizing investment news and performing individual stock analyses
+
+Use it as a reference model for building investment-related content or developing AI tools for financial education.
+
+---
+
+## ✨ Key Features
+
+- **Value Investing Explanations**
+    - Covers content for beginner, intermediate, and advanced investors
+    - Explains complex investment terms in simple language
+
+- **Individual Stock Analysis**
+    - Financial analysis (e.g. ROE, ROIC, FCF, equity ratio, etc.)
+    - Displays 10-year historical data
+    - Compares target companies with competitors
+    - Qualitative insights on business models, brand strength, and management evaluation
+
+- **Market News Commentary**
+    - Summarizes news articles
+    - Provides comments from the perspectives of both Buffett and Graham
+
+- **Chart Analysis**
+    - Generates stock price charts using matplotlib
+    - Displays technical indicators (e.g. moving averages, RSI)
+    - Performs scenario analysis for potential price movements (bull/bear cases)
+
+- **Investment Content Generation**
+    - Drafts articles, reports, and YouTube scripts
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages & Libraries**
+    - Python 3.x
+    - pandas
+    - matplotlib
+    - OpenAI API (Chat Completion, Function Calling)
+    - Markdown / HTML
+
+- **Example Application Frameworks**
+    - Streamlit / FastAPI
+    - Jupyter Notebook for analysis
+
+---
+
+## 🚀 Usage Scenarios
+
+This project is intended for various use cases, such as:
+
+- Content generation for investment media platforms
+- Building AI assistants for individual investors
+- Automating individual stock analysis and news summaries
+- Developing educational investment content
+
+> ⚠ **Disclaimer**  
+> This project does **not** constitute investment advice.  
+> Always make your own investment decisions at your own risk.
+
+---
+
+## 🔧 Sample Code
+
+Below is a simple example using the OpenAI API:
+
+```python
+from openai import OpenAI
+
+client = OpenAI()
+
+response = client.chat.completions.create(
+    model="gpt-4",
+    messages=[
+        {"role":"system", "content":"You are an investment advisor speaking as Buffett and Graham."},
+        {"role":"user", "content":"What is the P/E ratio? Explain it for beginners."}
+    ]
+)
+
+print(response.choices[0].message.content)
+````
+
+---
+
+> “Invest like the legends — powered by AI.”
+
+
 # バフェット＆グレアムGPTs
 
 **ウォーレン・バフェットとベンジャミン・グレアムの投資哲学をもとに開発した投資アドバイザーAI**
