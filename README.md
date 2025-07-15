@@ -1,12 +1,18 @@
+素晴らしいREADMEです！以下は **GitHubにそのまま貼り付けやすい形** に整えた最終版Markdownです。
+表現を少しだけ自然にし、統一感を出しました。日本語部分も見出しレベルや改行などをGitHub向けに最適化しました👇
+
+---
+
+```markdown
 # Buffett & Graham GPTs
 
-> “Invest like the legends — powered by AI.”
+> **“Invest like the legends — powered by AI.”**
 
 ---
 
 ## 📌 Overview
 
-**Buffett & Graham GPTs** is a conversational AI investment advisor designed for investors of all levels—from beginners to professionals—based on the timeless principles of Warren Buffett and Benjamin Graham.
+**Buffett & Graham GPTs** is a conversational AI investment assistant inspired by the timeless principles of Warren Buffett and Benjamin Graham.
 
 This tool generates engaging dialogues in which “Buffett” and “Graham” discuss investing concepts, analyze individual stocks both quantitatively and qualitatively, and comment on market news—all while simplifying complex financial ideas into language that’s easy to understand.
 
@@ -21,27 +27,40 @@ It’s ideal for:
 
 ## ✨ Key Features
 
-- **Value Investing Explanations**
-    - Covers topics for beginner, intermediate, and advanced investors
-    - Simplifies complex financial concepts into plain language
+✅ **Value Investing Explanations**
 
-- **Individual Stock Analysis**
-    - Performs financial analysis (e.g., ROE, ROIC, FCF, equity ratio)
-    - Displays historical financial data (10-year trends)
-    - Compares companies against competitors
-    - Provides qualitative insights on business models, brands, and management teams
+- Covers topics for beginner, intermediate, and advanced investors
+- Explains complex financial concepts in plain language
 
-- **Market News Commentary**
-    - Summarizes recent market news
-    - Adds commentary from both Buffett’s and Graham’s perspectives
+---
 
-- **Chart Analysis**
-    - Generates price charts with matplotlib
-    - Shows technical indicators (moving averages, RSI, etc.)
-    - Conducts scenario analyses for potential price movements
+✅ **Individual Stock Analysis**
 
-- **Investment Content Generation**
-    - Drafts investment articles, reports, or video scripts
+- Calculates financial metrics (e.g. ROE, ROIC, FCF, equity ratio)
+- Displays historical financial data (10-year trends)
+- Compares companies against competitors
+- Provides qualitative insights on business models, brands, and management teams
+
+---
+
+✅ **Market News Commentary**
+
+- Summarizes recent market news
+- Adds commentary from both Buffett’s and Graham’s perspectives
+
+---
+
+✅ **Chart Analysis**
+
+- Generates price charts with matplotlib
+- Shows technical indicators (moving averages, RSI, etc.)
+- Performs scenario analyses for potential price movements
+
+---
+
+✅ **Investment Content Generation**
+
+- Drafts investment articles, reports, or video scripts
 
 ---
 
@@ -81,14 +100,14 @@ What is the P/E ratio? Explain it for beginners.
 ## 🛠️ Tech Stack
 
 - **Languages & Libraries**
-    - Python 3.x
-    - pandas
-    - matplotlib
-    - OpenAI API (Chat Completion, Function Calling)
-    - Markdown / HTML
+  - Python 3.x
+  - pandas
+  - matplotlib
+  - OpenAI API (Chat Completion, Function Calling)
+  - Markdown / HTML
 - **Example Application Frameworks**
-    - Streamlit / FastAPI
-    - Jupyter Notebook for analysis
+  - Streamlit / FastAPI
+  - Jupyter Notebook for analysis
 
 ---
 
@@ -147,52 +166,64 @@ MIT License
 
 # バフェット＆グレアムGPTs
 
-> 「投資の伝説たちの知恵を、AIの力で。」
+> **「投資の伝説たちの知恵を、AIの力で。」**
 
 ---
 
 ## 📌 概要
 
-**バフェット＆グレアムGPTs** は、ウォーレン・バフェットとベンジャミン・グレアムの投資哲学をベースに、投資初心者からプロまで幅広い層に向けた **対話型AI投資アドバイザー** です。
+**バフェット＆グレアムGPTs** は、ウォーレン・バフェットとベンジャミン・グレアムの投資哲学をベースにした **対話型AI投資アドバイザー** です。
 
-「バフェット」と「グレアム」が掛け合い形式で投資の概念を解説し、個別株を定量・定性の両面から分析し、市況ニュースへのコメントも行います。
-複雑な金融用語もわかりやすい日本語に言い換え、投資の理解を助けます。
+「バフェット」と「グレアム」が掛け合い形式で投資の概念を解説し、個別株を定量・定性両面から分析、市況ニュースにもコメントします。
+複雑な金融用語もわかりやすい日本語に言い換え、投資の理解をサポートします。
 
 ---
 
 ## ✨ 主な機能 / Key Features
 
-* **バリュー投資解説**
+✅ **バリュー投資解説**
 
-  * 初心者・中級・上級向けの幅広い解説
-  * 難解な投資用語もやさしく説明
-* **個別株分析**
+* 初心者から上級者まで対応
+* 難解な投資用語も平易に説明
 
-  * 財務指標分析（ROE、ROIC、FCF、自己資本比率 など）
-  * 過去10年分のデータ表示
-  * 同業他社との比較
-  * ビジネスモデルやブランド、経営陣の定性評価
-* **市況ニュース解説**
+---
 
-  * 最新ニュースを要約
-  * バフェット＆グレアムの両視点でコメントを付加
-* **チャート分析**
+✅ **個別株分析**
 
-  * matplotlib で株価チャートを生成
-  * テクニカル指標（移動平均線、RSI 等）の表示
-  * 上昇／下降のシナリオ分析
-* **投資コンテンツ生成**
+* 財務指標分析（ROE、ROIC、FCF、自己資本比率など）
+* 過去10年分の財務データ表示
+* 同業他社との比較
+* ビジネスモデルやブランド、経営陣の定性評価
 
-  * 記事、レポート、YouTubeスクリプトを作成
+---
+
+✅ **市況ニュース解説**
+
+* 最新ニュースを要約
+* バフェット＆グレアム視点のコメントを追加
+
+---
+
+✅ **チャート分析**
+
+* matplotlibで株価チャートを生成
+* テクニカル指標（移動平均線、RSIなど）の表示
+* 上昇・下降シナリオ分析
+
+---
+
+✅ **投資コンテンツ生成**
+
+* 記事、レポート、YouTubeスクリプトの作成
 
 ---
 
 ## 🎯 想定ユーザー / Target Users
 
 * 個人投資家
-* 金融教育・コンテンツ制作者
+* 金融教育やコンテンツ制作者
 * 金融アプリ開発者
-* 投資アドバイザー、金融業界の研究職
+* 投資アドバイザーや金融業界の研究職
 
 ---
 
@@ -236,9 +267,9 @@ PERって何ですか？初心者向けに教えて。
 
 ## 🚀 活用例 / Use Cases
 
-* 投資教育コンテンツの制作
+* 投資教育コンテンツ制作
 * 個人投資家向けAIアシスタント開発
-* 個別株調査・ニュース分析の自動化
+* 個別株分析やニュース解説の自動化
 * 金融リテラシー向上施策
 
 > ⚠ **注意**
@@ -275,7 +306,7 @@ print(response.choices[0].message.content)
 
 * バリュー投資分野に特化したプロンプト設計
 * ユーザーが使いやすい対話設計
-* 定量・定性分析の両面での解説ブラッシュアップ
+* 定量・定性分析のブラッシュアップ
 
 ---
 
@@ -285,6 +316,6 @@ MIT License
 
 ---
 
-> 「投資の伝説たちの知恵を、AIの力で。」
+> **「投資の伝説たちの知恵を、AIの力で。」**
 
 ```
