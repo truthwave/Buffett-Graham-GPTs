@@ -1,46 +1,80 @@
 # Buffett & Graham GPTs
 
-**An AI investment advisor based on the philosophies of Warren Buffett and Benjamin Graham.**  
-[View Buffett & Graham GPTs on ChatGPT](https://chatgpt.com/share/687059ff-86b4-8009-b71e-b9cd0c5fb70a)
+> “Invest like the legends — powered by AI.”
 
 ---
 
-## 📖 Overview
+## 📌 Overview
 
-**Buffett & Graham GPTs** is a conversational AI investment advisor powered by the principles and theories of legendary investors Warren Buffett and Benjamin Graham.
+**Buffett & Graham GPTs** is a conversational AI investment advisor designed for investors of all levels—from beginners to professionals—based on the timeless principles of Warren Buffett and Benjamin Graham.
 
-- Designed for investors from beginners to advanced levels
-- Provides engaging dialogue where Buffett and Graham discuss and explain topics together
-- Offers both quantitative and qualitative analysis of investments
-- Capable of summarizing investment news and performing individual stock analyses
+This tool generates engaging dialogues in which “Buffett” and “Graham” discuss investing concepts, analyze individual stocks both quantitatively and qualitatively, and comment on market news—all while simplifying complex financial ideas into language that’s easy to understand.
 
-Use it as a reference model for building investment-related content or developing AI tools for financial education.
+It’s ideal for:
+
+- Individual investors seeking educational tools
+- Content creators producing investment-related articles, videos, or blogs
+- Developers building financial education apps
+- Professionals needing inspiration for investment analysis reports
 
 ---
 
 ## ✨ Key Features
 
 - **Value Investing Explanations**
-    - Covers content for beginner, intermediate, and advanced investors
-    - Explains complex investment terms in simple language
+    - Covers topics for beginner, intermediate, and advanced investors
+    - Simplifies complex financial concepts into plain language
 
 - **Individual Stock Analysis**
-    - Financial analysis (e.g. ROE, ROIC, FCF, equity ratio, etc.)
-    - Displays 10-year historical data
-    - Compares target companies with competitors
-    - Qualitative insights on business models, brand strength, and management evaluation
+    - Performs financial analysis (e.g., ROE, ROIC, FCF, equity ratio)
+    - Displays historical financial data (10-year trends)
+    - Compares companies against competitors
+    - Provides qualitative insights on business models, brands, and management teams
 
 - **Market News Commentary**
-    - Summarizes news articles
-    - Provides comments from the perspectives of both Buffett and Graham
+    - Summarizes recent market news
+    - Adds commentary from both Buffett’s and Graham’s perspectives
 
 - **Chart Analysis**
-    - Generates stock price charts using matplotlib
-    - Displays technical indicators (e.g. moving averages, RSI)
-    - Performs scenario analysis for potential price movements (bull/bear cases)
+    - Generates price charts with matplotlib
+    - Shows technical indicators (moving averages, RSI, etc.)
+    - Conducts scenario analyses for potential price movements
 
 - **Investment Content Generation**
-    - Drafts articles, reports, and YouTube scripts
+    - Drafts investment articles, reports, or video scripts
+
+---
+
+## 🎯 Target Users
+
+- Individual investors
+- Financial educators and content creators
+- Developers of financial apps
+- Investment advisors looking for research support
+
+---
+
+## 💻 Usage Examples
+
+Here’s how you might use Buffett & Graham GPTs:
+
+---
+
+### Example Prompt
+
+```
+
+What is the P/E ratio? Explain it for beginners.
+
+````
+
+---
+
+### GPT Example Output
+
+> **Buffett:** The P/E ratio tells you how much investors are paying for $1 of a company’s earnings. A high P/E might mean people expect growth, but it could also mean the stock is expensive.  
+>  
+> **Graham:** Exactly. The P/E ratio helps assess valuation. However, it’s just one tool—you must also look at earnings stability and financial strength.
 
 ---
 
@@ -52,31 +86,28 @@ Use it as a reference model for building investment-related content or developin
     - matplotlib
     - OpenAI API (Chat Completion, Function Calling)
     - Markdown / HTML
-
 - **Example Application Frameworks**
     - Streamlit / FastAPI
     - Jupyter Notebook for analysis
 
 ---
 
-## 🚀 Usage Scenarios
+## 🚀 Use Cases
 
-This project is intended for various use cases, such as:
-
-- Content generation for investment media platforms
-- Building AI assistants for individual investors
-- Automating individual stock analysis and news summaries
-- Developing educational investment content
+- Creating educational investment content
+- Building AI investment assistant apps
+- Automating stock analysis and news summaries
+- Supporting financial literacy initiatives
 
 > ⚠ **Disclaimer**  
-> This project does **not** constitute investment advice.  
-> Always make your own investment decisions at your own risk.
+> This tool does **not** constitute investment advice.  
+> Always conduct your own due diligence and make investment decisions at your own risk.
 
 ---
 
 ## 🔧 Sample Code
 
-Below is a simple example using the OpenAI API:
+A simple example using the OpenAI API:
 
 ```python
 from openai import OpenAI
@@ -96,84 +127,129 @@ print(response.choices[0].message.content)
 
 ---
 
-> “Invest like the legends — powered by AI.”
+## 👨‍💻 My Role
 
+I developed this GPT, handling:
+
+* Prompt engineering tailored to value investing topics
+* User experience design for clear dialogue outputs
+* Refinement of both quantitative and qualitative investment analysis explanations
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+---
 
 # バフェット＆グレアムGPTs
 
-**ウォーレン・バフェットとベンジャミン・グレアムの投資哲学をもとに開発した投資アドバイザーAI**
-https://chatgpt.com/share/687059ff-86b4-8009-b71e-b9cd0c5fb70a
----
-
-## 📖 概要
-
-「バフェット＆グレアムGPTs」は、  
-ウォーレン・バフェットとベンジャミン・グレアムの投資理論をベースにした  
-**対話型AI投資アドバイザー** です。
-
-- 投資初心者から上級者まで幅広く対応
-- バフェットとグレアムの掛け合い形式で解説
-- 定量分析・定性分析の両面から投資情報を提供
-- 投資ニュースの要約や個別株分析も可能
-
-投資コンテンツ制作やAI活用の参考モデルとしてご活用ください。
+> 「投資の伝説たちの知恵を、AIの力で。」
 
 ---
 
-## ✨ 主な機能
+## 📌 概要
 
-- **バリュー投資解説**  
-    - 投資レベル別（初心者・中級・上級）対応
-    - 難解な用語も平易に説明
-- **個別株分析**
-    - 財務分析（ROE、ROIC、FCF、自己資本比率 等）
-    - 過去10年推移データの表示
-    - 競合企業との比較
-    - 定性分析（ビジネスモデル、ブランド力、経営者評価）
-- **市況ニュース解説**
-    - ニュースの要約
-    - バフェットとグレアム、それぞれの視点でコメント
-- **チャート分析**
-    - 株価推移グラフ生成（matplotlib使用）
-    - テクニカル指標表示（例：移動平均線、RSI 等）
-    - 上昇シナリオ／下降シナリオのシナリオ分析
-- **投資コンテンツ生成**
-    - 記事、レポート、YouTube台本作成
+**バフェット＆グレアムGPTs** は、ウォーレン・バフェットとベンジャミン・グレアムの投資哲学をベースに、投資初心者からプロまで幅広い層に向けた **対話型AI投資アドバイザー** です。
+
+「バフェット」と「グレアム」が掛け合い形式で投資の概念を解説し、個別株を定量・定性の両面から分析し、市況ニュースへのコメントも行います。
+複雑な金融用語もわかりやすい日本語に言い換え、投資の理解を助けます。
 
 ---
 
-## 🛠️ 技術スタック
+## ✨ 主な機能 / Key Features
 
-- **言語・ライブラリ**
-    - Python 3.x
-    - pandas
-    - matplotlib
-    - OpenAI API (Chat Completion, Function Calling)
-    - Markdown / HTML
-- **アプリケーション例**
-    - Streamlit / FastAPI
-    - Jupyter Notebook（分析用）
+* **バリュー投資解説**
 
----
+  * 初心者・中級・上級向けの幅広い解説
+  * 難解な投資用語もやさしく説明
+* **個別株分析**
 
-## 🚀 Usage
+  * 財務指標分析（ROE、ROIC、FCF、自己資本比率 など）
+  * 過去10年分のデータ表示
+  * 同業他社との比較
+  * ビジネスモデルやブランド、経営陣の定性評価
+* **市況ニュース解説**
 
-本プロジェクトは主に以下のような用途を想定しています：
+  * 最新ニュースを要約
+  * バフェット＆グレアムの両視点でコメントを付加
+* **チャート分析**
 
-- 投資メディア運営者向けのコンテンツ生成
-- 個人投資家向けAIアシスタント開発
-- 個別株調査やニュース分析の自動化
-- 投資教育コンテンツ制作
+  * matplotlib で株価チャートを生成
+  * テクニカル指標（移動平均線、RSI 等）の表示
+  * 上昇／下降のシナリオ分析
+* **投資コンテンツ生成**
 
-> ⚠ **注意**  
-> 本プロジェクトは投資助言ではありません。  
-> 実際の投資判断は必ずご自身の責任で行ってください。
+  * 記事、レポート、YouTubeスクリプトを作成
 
 ---
 
-## 🔧 サンプルコード
+## 🎯 想定ユーザー / Target Users
 
-以下は、簡単な呼び出し例（OpenAI API）です：
+* 個人投資家
+* 金融教育・コンテンツ制作者
+* 金融アプリ開発者
+* 投資アドバイザー、金融業界の研究職
+
+---
+
+## 💻 使用例 / Usage Examples
+
+以下のように入力するだけで、対話形式の投資アドバイスが得られます：
+
+---
+
+### 入力例
+
+```
+PERって何ですか？初心者向けに教えて。
+```
+
+---
+
+### GPT の出力例
+
+> **バフェット:** PER（株価収益率）は、株を買う人が企業の1円の利益にいくら払うかを示す指標だ。PERが高いのは成長期待が高い場合もあるけど、株価が割高な可能性もある。
+>
+> **グレアム:** その通りだ。PERは株の割安・割高を測る一つの目安だが、それだけでは不十分だ。利益の安定性や財務の健全さも必ず確認すべきだよ。
+
+---
+
+## 🛠️ 技術スタック / Tech Stack
+
+* **言語・ライブラリ**
+
+  * Python 3.x
+  * pandas
+  * matplotlib
+  * OpenAI API (Chat Completion, Function Calling)
+  * Markdown / HTML
+* **アプリケーション例**
+
+  * Streamlit / FastAPI
+  * Jupyter Notebook（分析用途）
+
+---
+
+## 🚀 活用例 / Use Cases
+
+* 投資教育コンテンツの制作
+* 個人投資家向けAIアシスタント開発
+* 個別株調査・ニュース分析の自動化
+* 金融リテラシー向上施策
+
+> ⚠ **注意**
+> 本ツールは投資助言を行うものではありません。
+> 投資判断は必ずご自身の責任で行ってください。
+
+---
+
+## 🔧 サンプルコード / Sample Code
+
+以下は OpenAI API を用いた簡単な呼び出し例です：
 
 ```python
 from openai import OpenAI
@@ -189,3 +265,26 @@ response = client.chat.completions.create(
 )
 
 print(response.choices[0].message.content)
+```
+
+---
+
+## 👨‍💻 開発者 / My Role
+
+本ツールでは以下を担当しました：
+
+* バリュー投資分野に特化したプロンプト設計
+* ユーザーが使いやすい対話設計
+* 定量・定性分析の両面での解説ブラッシュアップ
+
+---
+
+## 📄 ライセンス / License
+
+MIT License
+
+---
+
+> 「投資の伝説たちの知恵を、AIの力で。」
+
+```
