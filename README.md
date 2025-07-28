@@ -1,3 +1,8 @@
+<p>
+ <img width="1536" height="1024" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/854b8e4c-1e65-44b9-bdb9-088af6e1dc22" />
+
+</p>
+
 # バフェット＆グレアムGPTs
 
 > **「投資の伝説たちの知恵を、AIの力で。」**
