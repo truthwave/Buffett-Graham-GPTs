@@ -156,3 +156,9 @@ MIT License
 ---
 
 > **「投資の伝説たちの知恵を、AIの力で。」**
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
