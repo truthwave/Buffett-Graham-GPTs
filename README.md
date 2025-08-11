@@ -45,6 +45,16 @@
 
 ---
 
+## 📸 **体験イメージ**
+
+[AppleとMicrosoftの株に関する投資アドバイス](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/Apple%E3%81%A8Microsoft%E3%81%AE%E6%A0%AA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%95%E8%B3%87%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9.jpeg)
+
+[これから株を始める人への投資アドバイス](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E6%A0%AA%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B%E4%BA%BA%E3%81%B8%E3%81%AE%E6%8A%95%E8%B3%87%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9.jpeg)
+
+[株価が下がった時の投資アドバイス](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%A0%AA%E4%BE%A1%E3%81%8C%E4%B8%8B%E3%81%8C%E3%81%A3%E3%81%9F%E6%99%82%E3%81%AE%E6%8A%95%E8%B3%87%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9.jpeg)
+
+---
+
 ## 🎯 想定ユーザー
 
 - 個人投資家（初心者〜上級者）
