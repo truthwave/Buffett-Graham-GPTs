@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100%" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/854b8e4c-1e65-44b9-bdb9-088af6e1dc22" />
+ <img width="1536" height="1024" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/bca3af3f-b6f0-4e1f-b475-d8a9582ac7c2" />
+
 </p>
 
 # バフェット＆グレアムGPTs
