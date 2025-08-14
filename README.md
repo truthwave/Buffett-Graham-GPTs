@@ -134,6 +134,9 @@ print(response.choices[0].message.content)
 * 定量・定性分析ロジックの設計
 * ユーザーとの対話性を重視したUX設計
 
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
+
 ---
 
 ## 📄 ライセンス
