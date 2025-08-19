@@ -47,7 +47,6 @@
 ---
 
 ## 📸 **体験イメージ**
-![デモ動画]()
 
 ![AppleとMicrosoftの株に関する投資アドバイス](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/Apple%E3%81%A8Microsoft%E3%81%AE%E6%A0%AA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%95%E8%B3%87%E3%82%A2%E3%83%89%E3%83%90%E3%82%A4%E3%82%B9.jpeg)
 
