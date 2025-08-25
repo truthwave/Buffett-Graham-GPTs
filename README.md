@@ -92,14 +92,9 @@ PERって何ですか？初心者向けに教えて。
 
 ---
 
-## 🛠 技術スタック
+## 📄 ライセンス
 
-* Python 3.x
-* pandas / matplotlib
-* OpenAI API (Chat Completion, Function Calling)
-* Markdown / HTML
-* Streamlit / FastAPI（アプリ）
-* Jupyter Notebook（分析用途）
+MIT License
 
 ---
 
