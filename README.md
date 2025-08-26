@@ -137,8 +137,8 @@ print(response.choices[0].message.content)
 
 ## 👨‍💻 開発者 / Author
 
-**ともプログラム便り**
-[GitHubプロフィールを見る](https://github.com/TomoProgrammingDayori)
+**[ともAI便り](https://github.com/TomoAIDayori)**
+
 
 * バリュー投資に特化したプロンプト設計
 * 定量・定性分析ロジックの設計
