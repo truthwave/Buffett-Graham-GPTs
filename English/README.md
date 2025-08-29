@@ -122,28 +122,6 @@ What is the P/E ratio? Explain it for beginners.
 
 ---
 
-## 🔧 Sample Code
-
-A simple example using the OpenAI API:
-
-```python
-from openai import OpenAI
-
-client = OpenAI()
-
-response = client.chat.completions.create(
-    model="gpt-4",
-    messages=[
-        {"role":"system", "content":"You are an investment advisor speaking as Buffett and Graham."},
-        {"role":"user", "content":"What is the P/E ratio? Explain it for beginners."}
-    ]
-)
-
-print(response.choices[0].message.content)
-````
-
----
-
 ## 👨‍💻 My Role
 
 I developed this GPT, handling:
@@ -157,7 +135,5 @@ I developed this GPT, handling:
 ## 📄 License
 
 MIT License
-
----
 
 ---
