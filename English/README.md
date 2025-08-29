@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1536" height="1024" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/fcca5568-451f-4a23-8da7-8f12697dfa62" />
+</p>
+
 # Buffett & Graham GPTs
 
 > **“Invest like the legends — powered by AI.”**
