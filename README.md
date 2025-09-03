@@ -157,6 +157,7 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
 
 投資家のための企業分析チェックリスト
+
 👉 [オプションの販売ページを見る](https://coconala.com/services/3835557)
 
 ---
