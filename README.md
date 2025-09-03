@@ -154,7 +154,10 @@ print(response.choices[0].message.content)
 このプロジェクトは、現在ココナラにて有償版を販売しています。  
 AIプロンプト設計・カスタマイズ・導入サポートをご希望の方は、以下よりご相談ください。
 
-👉 [ココナラの販売ページを見る](https://coconala.com/services/3835557)
+👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
+
+投資家のための企業分析チェックリスト
+👉 [オプションの販売ページを見る](https://coconala.com/services/3835557)
 
 ---
 
