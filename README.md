@@ -155,7 +155,6 @@ print(response.choices[0].message.content)
 AIプロンプト設計・カスタマイズ・導入サポートをご希望の方は、以下よりご相談ください。
 
 🎯 先着3名様限定｜初回販売キャンペーン中
-
 初めての方にも安心してご利用いただけるよう、レビューにご協力いただける方へ特別価格でご提供しています。
 
 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
