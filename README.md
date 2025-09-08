@@ -28,7 +28,7 @@
 
 > **現在このツールは、ココナラにて販売中です。**  
 > 詳細や導入相談は、以下よりご覧ください。  
-> 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
+> 👉 [ココナラの販売ページを見る](https://youtu.be/C0Z3_qNlYOM)
 
 ---
 
