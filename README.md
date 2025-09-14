@@ -137,7 +137,7 @@ print(response.choices[0].message.content)
 
 ## 👨‍💻 開発者 / Author
 
-**[ともAI便り](https://github.com/truthwave)**
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 
 * バリュー投資に特化したプロンプト設計
