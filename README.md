@@ -9,11 +9,10 @@
 
 ---
 
-## [プロジェクト概要](https://youtu.be/VlOAxdjg7Kk)
-![スライド2](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
-![スライド3](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
-![スライド4](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
-![スライド5](https://github.com/TomoProgrammingDayori/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%895.PNG)
+## プロジェクト概要
+[スライド資料はこちら](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs)
+
+[動画資料はこちら](https://youtu.be/VlOAxdjg7Kk)
 
 ---
 
