@@ -12,7 +12,7 @@
 ## プロジェクト概要
 [スライド資料はこちら](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs)
 
-[動画資料はこちら](https://youtu.be/Yhz47o8MeJY)
+[動画資料はこちら](https://youtu.be/C5flSs8DYEo)
 
 ---
 
