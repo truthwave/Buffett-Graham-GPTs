@@ -152,11 +152,11 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 🎯 先着3名様限定｜初回販売キャンペーン中
 <br>初めての方にも安心してご利用いただけるよう、レビューにご協力いただける方へ特別価格でご提供しています。
 
-👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
+### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
 
-投資家のための企業分析チェックリスト(オプション)
+**投資家のための企業分析チェックリスト(オプション)**
 
-👉 [オプションの販売ページを見る](https://coconala.com/services/3835557)
+### 👉 [オプションの販売ページを見る](https://coconala.com/services/3835557)
 
 ---
 
