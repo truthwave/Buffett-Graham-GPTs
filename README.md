@@ -110,26 +110,6 @@ MIT License
 
 ---
 
-## 🔧 サンプルコード
-
-```python
-from openai import OpenAI
-
-client = OpenAI()
-
-response = client.chat.completions.create(
-    model="gpt-4",
-    messages=[
-        {"role": "system", "content": "あなたはバフェットとグレアムの投資アドバイザーです。"},
-        {"role": "user", "content": "PERって何ですか？初心者向けに教えて。"}
-    ]
-)
-
-print(response.choices[0].message.content)
-```
-
----
-
 ## 👨‍💻 開発者 / Author
 
 **[Truth Wave ― 真理の波](https://github.com/truthwave)**  
