@@ -3,9 +3,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-path" width="80%" />
-</p>
 
 # 📘 Buffett × Graham 投資診断GPT
 
