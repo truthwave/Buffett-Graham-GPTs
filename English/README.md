@@ -47,7 +47,7 @@ Considering the current PBR and PER compared to theoretical stock price, the und
 ## 📦 Included Content
 
 | Item          | Description                             |
-| ----------- | ---------------------------- -- |
+| ----------- | ------------------------------ |
 | GPT Link      | “GPTs” link openable within ChatGPT          |
 | User Guide (PDF)  | Beginner-friendly explanation with images. Includes how to open ChatGPT. |
 | Recommended Question Templates | Over 10 ready-to-use question examples included.              |
