@@ -1,150 +1,111 @@
+# 📘 Buffett Graham GPTs
+
+> “**Investor thinking, at your fingertips.**”
+
 <p align="center">
 <img width="1536" height="1024" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/fcca5568-451f-4a23-8da7-8f12697dfa62" />
 </p>
 
-# Buffett & Graham GPTs
+---
 
-> **“Invest like the legends — powered by AI.”**
+## 🧠 Before → After (Changes Before and After Use)
+
+| Before (Common Concerns)                            | After (With This GPT)                                                    |
+|------------------ --------------------------------|------------------------------------------------------------------- -----|
+| Can't tell if a stock is undervalued even after checking PER/PBR      | Graham explains using “theoretical stock price” and “margin of safety” |
+| Can read charts but don't understand intrinsic value      | Buffett diagnoses using “Management, Competitive Advantage, Future Potential”                    |
+| Want to buy stocks but overwhelmed by too much info          | Ask “Which is better, XX or △△?” and they compare                         |
+| New to investing and don't know where to start        | Two masters accompany you as your thinking partners                            |
 
 ---
 
-## 📸 **Experience Image**
-![デモ動画](https://github.com/TomoAIDayori/Buffett-Graham-GPTs/blob/main/English/Demo%20Movie.gif)
+## 💬 What this GPT can do
 
-![投資アドバイス-アップル-マイクロソフト株](https://github.com/TomoAIDayori/Buffett-Graham-GPTs/blob/main/English/investment-advice-apple-microsoft-stock.jpeg)
-
-![投資アドバイス - 株式市場を始める](https://github.com/TomoAIDayori/Buffett-Graham-GPTs/blob/main/English/investment-advice-starting-stock-market.jpeg)
-
-![投資アドバイス-株価下落](https://github.com/TomoAIDayori/Buffett-Graham-GPTs/blob/main/English/investment-advice-stock-drop.jpeg)
-
----
-
-## 📌 Overview
-
-**Buffett & Graham GPTs** is a conversational AI investment assistant inspired by the timeless principles of Warren Buffett and Benjamin Graham.
-
-This tool generates engaging dialogues in which “Buffett” and “Graham” discuss investing concepts, analyze individual stocks both quantitatively and qualitatively, and comment on market news—all while simplifying complex financial ideas into language that’s easy to understand.
-
-It’s ideal for:
-
-- Individual investors seeking educational tools
-- Content creators producing investment-related articles, videos, or blogs
-- Developers building financial education apps
-- Professionals needing inspiration for investment analysis reports
+- ✅ Simply enter a stock name for a **value investing perspective diagnosis**
+- ✅ Assist with investment decisions like “Should I buy now?” or “What about this company?”
+- ✅ Supports both Japanese and US stocks
+- ✅ Analysis beyond stock prices and charts (covering management, finances, competitive advantages)
+- ✅ Supports beginners with clear, concrete advice
 
 ---
 
-## ✨ Key Features
+## 🖼️ Sample Responses (Example)
 
-✅ **Value Investing Explanations**
+```text
+📝 Input: Tell me about Keyence
 
-- Covers topics for beginner, intermediate, and advanced investors
-- Explains complex financial concepts in plain language
+👨‍🏫 Buffett's perspective:
+Keyence is... [emphasizing competitive advantage, financial soundness, and trust in management]...
 
----
-
-✅ **Individual Stock Analysis**
-
-- Calculates financial metrics (e.g. ROE, ROIC, FCF, equity ratio)
-- Displays historical financial data (10-year trends)
-- Compares companies against competitors
-- Provides qualitative insights on business models, brands, and management teams
-
----
-
-✅ **Market News Commentary**
-
-- Summarizes recent market news
-- Adds commentary from both Buffett’s and Graham’s perspectives
-
----
-
-✅ **Chart Analysis**
-
-- Generates price charts with matplotlib
-- Shows technical indicators (moving averages, RSI, etc.)
-- Performs scenario analyses for potential price movements
-
----
-
-✅ **Investment Content Generation**
-
-- Drafts investment articles, reports, or video scripts
-
----
-
-## 🎯 Target Users
-
-- Individual investors
-- Financial educators and content creators
-- Developers of financial apps
-- Investment advisors looking for research support
-
----
-
-## 💻 Usage Examples
-
-Here’s how you might use Buffett & Graham GPTs:
-
----
-
-### Example Prompt
-
-```
-
-What is the P/E ratio? Explain it for beginners.
-
+👓 Graham's perspective:
+Considering the current PBR and PER compared to theoretical stock price, the undervaluation is...
 ````
 
----
-
-### GPT Example Output
-
-> **Buffett:** The P/E ratio tells you how much investors are paying for $1 of a company’s earnings. A high P/E might mean people expect growth, but it could also mean the stock is expensive.  
->  
-> **Graham:** Exactly. The P/E ratio helps assess valuation. However, it’s just one tool—you must also look at earnings stability and financial strength.
+> ※Example questions: “Which is better, Panasonic or Sony?” “What's your overall impression of Japanese stocks right now?”
 
 ---
 
-## 🛠️ Tech Stack
+## 📦 Included Content
 
-- **Languages & Libraries**
-  - Python 3.x
-  - pandas
-  - matplotlib
-  - OpenAI API (Chat Completion, Function Calling)
-  - Markdown / HTML
-- **Example Application Frameworks**
-  - Streamlit / FastAPI
-  - Jupyter Notebook for analysis
+| Item          | Description                             |
+| ----------- | ---------------------------- -- |
+| GPT Link      | “GPTs” link openable within ChatGPT          |
+| User Guide (PDF)  | Beginner-friendly explanation with images. Includes how to open ChatGPT. |
+| Recommended Question Templates | Over 10 ready-to-use question examples included.              |
 
 ---
 
-## 🚀 Use Cases
+## ✅ Compatible Environments
 
-- Creating educational investment content
-- Building AI investment assistant apps
-- Automating stock analysis and news summaries
-- Supporting financial literacy initiatives
-
-> ⚠ **Disclaimer**  
-> This tool does **not** constitute investment advice.  
-> Always conduct your own due diligence and make investment decisions at your own risk.
+* ChatGPT account required
+* Works on both browsers and smartphones (compatible with official ChatGPT app)
 
 ---
 
-## 👨‍💻 My Role
-
-I developed this GPT, handling:
-
-* Prompt engineering tailored to value investing topics
-* User experience design for clear dialogue outputs
-* Refinement of both quantitative and qualitative investment analysis explanations
+## 🖼️ GIF Demo
+![デモ動画](https://github.com/TomoAIDayori/Buffett-Graham-GPTs/blob/main/English/Demo%20Movie.gif)
 
 ---
 
-## 📄 License
+## 💬 Frequently Asked Questions (FAQ)
 
-MIT License
+**Q. Can't I use it for free?**
+→ This tool is sold for a fee, so **there is no trial feature**. However, sample responses are publicly available on this page.
+
+**Q. I don't know how to register for ChatGPT.**
+→ The included PDF guide thoroughly explains everything from registration to usage.
+
+**Q. Could it provide incorrect information?**
+→ Due to the nature of GPT, we cannot guarantee 100% accuracy. Please use it as an “auxiliary tool” for investment decisions.
 
 ---
+
+
+## 🎯 Recommended for these users
+
+* Investment beginners who don't know where to start
+* Those interested in fundamental-focused investing
+* People who want to make decisions based on **intrinsic value** rather than short-term price movements
+* Those who admire Buffett or Graham but struggle to apply their principles to actual investing
+
+---
+
+## 🛒 Purchase Here
+
+👉 [Coconala Sales Page](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
+<br>👉 Or contact us via [email](mailto:realmadrid71214591@gmail.com)
+
+---
+
+## 🧭 From the Creator
+
+> “Can't read the indicators?” “Can't choose a company?”
+> We've given shape to that feeling of “if only I could consult someone.”
+> We'd be delighted if this GPT helps “increase your options” in your investment journey.
+
+---
+
+## 👨‍💻 Developer
+
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+
