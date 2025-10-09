@@ -10,12 +10,12 @@
 
 ## 🧠 Before → After (Changes Before and After Use)
 
-| Before (Common Concerns)                            | After (With This GPT)                                                    |
-|------------------ ----------------------------------|-------------------------------------------------------------------- -----|
+| Before (Common Concerns)                                              | After (With This GPT)                                                    |
+|------------------ ----------------------------------------------------|-------------------------------------------------------------------- -----|
 | Can't tell if a stock is undervalued even after checking PER/PBR      | Graham explains using “theoretical stock price” and “margin of safety” |
-| Can read charts but don't understand intrinsic value      | Buffett diagnoses using “Management, Competitive Advantage, Future Potential”                    |
-| Want to buy stocks but overwhelmed by too much info          | Ask “Which is better, XX or △△?” and they compare                         |
-| New to investing and don't know where to start        | Two masters accompany you as your thinking partners                            |
+| Can read charts but don't understand intrinsic value                  | Buffett diagnoses using “Management, Competitive Advantage, Future Potential”  |
+| Want to buy stocks but overwhelmed by too much info                   | Ask “Which is better, XX or △△?” and they compare                         |
+| New to investing and don't know where to start                        | Two masters accompany you as your thinking partners                            |
 
 ---
 
