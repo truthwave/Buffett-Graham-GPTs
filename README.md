@@ -5,16 +5,13 @@
 <p align="center">
  <img width="1536" height="1024" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/bca3af3f-b6f0-4e1f-b475-d8a9582ac7c2" />
 
-</p>
-<img width="1280" height="720" alt="バフェット・グレアム" src="https://github.com/user-attachments/assets/fe85f918-74b6-45f5-871c-c78dfca4ce1a" />
-
 
 ---
 
 ## プロジェクト概要
 [![【GPT×投資】伝説の投資家があなたの質問に答える！？バフェット＆グレアムGPTs デモ動画](https://github.com/user-attachments/assets/fe85f918-74b6-45f5-871c-c78dfca4ce1a)](https://youtu.be/IsbGfkHMYJ0)
 
-#### [スライド資料はこちら](https://github.com/truthwave/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
+#### [スライド資料はこちら](https://github.com/truthwave/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs.pdf)
 
 ---
 
