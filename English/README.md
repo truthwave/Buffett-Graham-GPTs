@@ -3,7 +3,8 @@
 > “**Investor thinking, at your fingertips.**”
 
 <p align="center">
-<img width="1536" height="1024" alt="投資の伝説たちの知恵を、AIの力で。" src="https://github.com/user-attachments/assets/fcca5568-451f-4a23-8da7-8f12697dfa62" />
+<img width="1536" height="1024" alt="バフェット・グレアムGPT (2)" src="https://github.com/user-attachments/assets/8c9cc387-a069-4ab6-991d-37d0f4246b64" />
+
 </p>
 
 ---
