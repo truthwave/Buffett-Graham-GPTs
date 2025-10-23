@@ -7,7 +7,6 @@
 </p>
 
 ---
-<img width="1536" height="1024" alt="バフェット" src="https://github.com/user-attachments/assets/1d86130c-cd52-4a1d-8e01-2efb64ba0085" />
 
 ## プロジェクト概要
 [![【GPT×投資】伝説の投資家があなたの質問に答える！？バフェット＆グレアムGPTs デモ動画](https://github.com/user-attachments/assets/1d86130c-cd52-4a1d-8e01-2efb64ba0085)](https://youtu.be/IsbGfkHMYJ0)
