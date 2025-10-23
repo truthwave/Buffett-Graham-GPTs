@@ -7,9 +7,10 @@
 </p>
 
 ---
+<img width="1536" height="1024" alt="バフェット" src="https://github.com/user-attachments/assets/1d86130c-cd52-4a1d-8e01-2efb64ba0085" />
 
 ## プロジェクト概要
-[![【GPT×投資】伝説の投資家があなたの質問に答える！？バフェット＆グレアムGPTs デモ動画](https://github.com/user-attachments/assets/fe85f918-74b6-45f5-871c-c78dfca4ce1a)](https://youtu.be/IsbGfkHMYJ0)
+[![【GPT×投資】伝説の投資家があなたの質問に答える！？バフェット＆グレアムGPTs デモ動画](https://github.com/user-attachments/assets/1d86130c-cd52-4a1d-8e01-2efb64ba0085)](https://youtu.be/IsbGfkHMYJ0)
 
 #### [スライド資料はこちら](https://github.com/truthwave/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0GPTs.pdf)
 
