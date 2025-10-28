@@ -70,7 +70,7 @@
 ---
 
 ## 🖼️ GIFデモ
-![デモ動画](https://github.com/truthwave/Buffett-Graham-GPTs/blob/main/English/Materials/Demo%20Movie.gif)
+![デモ動画](https://github.com/truthwave/Buffett-Graham-GPTs/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ---
 
