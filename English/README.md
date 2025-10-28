@@ -4,7 +4,6 @@
 
 <p align="center">
 <img width="1536" height="1024" alt="バフェット・グレアムGPT (2)" src="https://github.com/user-attachments/assets/8c9cc387-a069-4ab6-991d-37d0f4246b64" />
-
 </p>
 
 ---
