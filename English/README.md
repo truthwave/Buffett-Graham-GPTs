@@ -8,7 +8,6 @@
 </p>
 
 ---
-<img width="1280" height="720" alt="バフェット" src="https://github.com/user-attachments/assets/f5b54baa-24c4-4140-b33c-aae3a35e1985" />
 
 ## Project Overview
 [![【GPT×Investment】Legendary Investors Answer Your Questions!? Buffett & Graham GPTs Demo Video](https://github.com/user-attachments/assets/f5b54baa-24c4-4140-b33c-aae3a35e1985)](https://youtu.be/IsbGfkHMYJ0)
