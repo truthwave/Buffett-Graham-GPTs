@@ -68,8 +68,10 @@ Considering the current PBR and PER compared to theoretical stock price, the und
 
 ---
 
-## 🖼️ GIF Demo
+## 🖼️ Demo
 ![デモ動画](https://github.com/truthwave/Buffett-Graham-GPTs/blob/main/English/Materials/Demo%20Movie.gif)
+
+### [Screenshot](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/English/Materials/Screenshot)
 
 ---
 
