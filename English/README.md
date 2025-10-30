@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-### YouTube is here
+### Watch on YouTube
 [![【GPT×Investment】Legendary Investors Answer Your Questions!? Buffett & Graham GPTs Demo Video](https://github.com/user-attachments/assets/f5b54baa-24c4-4140-b33c-aae3a35e1985)](https://youtu.be/IsbGfkHMYJ0)
 
 #### [Slide Materials Here](https://github.com/truthwave/Buffett-Graham-GPTs/blob/main/English/Materials/Buffett%20Graham%20GPTs.pdf)
