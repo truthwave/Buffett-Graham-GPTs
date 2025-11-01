@@ -115,4 +115,4 @@
 
 ## 👨‍💻 開発者
 
-**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+**[Truth Wave ― 真理の波](https://github.com/truthwave/Truth-Wave)**  
