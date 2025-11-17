@@ -100,7 +100,6 @@
 
 ## 🛒 ご購入はこちら
 👉 [note販売ページ](https://note.com/truth_wave/n/n92be6e1aca01)
-<br>👉 [ココナラ販売ページ](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
 <br>👉 または[メール](mailto:realmadrid71214591@gmail.com)でのお問い合わせも可能です
 
 ---
