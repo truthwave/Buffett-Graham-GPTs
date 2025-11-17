@@ -101,9 +101,8 @@ Considering the current PBR and PER compared to theoretical stock price, the und
 ---
 
 ## 🛒 Purchase Here
-
-👉 [Coconala Sales Page](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
-<br>👉 [note Sales Page](https://note.com/truth_wave/n/n92be6e1aca01)
+👉 [note Sales Page](https://note.com/truth_wave/n/n92be6e1aca01)
+<br>👉 [Coconala Sales Page](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
 <br>👉 Or contact us via [email](mailto:realmadrid71214591@gmail.com)
 
 ---
