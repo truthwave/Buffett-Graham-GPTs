@@ -98,9 +98,19 @@
 
 ---
 
-## 🛒 ご購入はこちら
-👉 [note販売ページ](https://note.com/truth_wave/n/n92be6e1aca01)
-<br>👉 または[メール](mailto:realmadrid71214591@gmail.com)でのお問い合わせも可能です
+## Truth Wave GPTs を実際に使ってみる
+
+このブログで書いた内容は、「実際に動くGPT」として使えるようにしてあります。
+
+- まとめて整えたい方へ（GPT本体＋オプション資料つき）
+　GPT本体にくわえて、チェックリストやテンプレートなどのオプション資料も
+　一式セットにしたプランです。
+### [→ Truth Wave GPTs セット（GPT＋オプション資料つき）](https://note.com/truth_wave/n/n382e68e3d601)
+
+
+- まずは一点だけ試したい方へ（GPT本体のみ）
+　今回のテーマのGPT本体だけを、ピンポイントで使ってみたい方向けです。
+###  [→ このGPTを単品で使ってみる（GPT本体のみ）](https://note.com/truth_wave/n/n92be6e1aca01)
 
 ---
 
