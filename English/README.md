@@ -97,7 +97,7 @@ The content written in this blog is designed to be usable as a “working GPT.�
 
 - For those who want everything organized (GPT core + optional materials)
   This plan bundles the GPT core with optional materials like checklists and templates.
-### [→ Truth Wave GPTs Set (GPT + Optional Materials)](https://note.com/truth_wave/n/n382e68e3d601)
+### [→ Truth Wave GPTs Set (GPT + Optional Materials)](https://buffett-graham-analytics.vercel.app/?p=invest_entry&src=github&c=2026w07)
 
 
 - For those who want to try just one thing first (GPT core only)
