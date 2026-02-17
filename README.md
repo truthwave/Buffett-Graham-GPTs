@@ -96,7 +96,7 @@
 - まとめて整えたい方へ（GPT本体＋オプション資料つき）
 　GPT本体にくわえて、チェックリストやテンプレートなどのオプション資料も
 　一式セットにしたプランです。
-### [→ Truth Wave GPTs セット（GPT＋オプション資料つき）](https://note.com/truth_wave/n/n382e68e3d601)
+### [→ Truth Wave GPTs セット（GPT＋オプション資料つき）](https://buffett-graham-analytics.vercel.app/?p=invest_entry&src=github&c=2026w07)
 
 
 - まずは一点だけ試したい方へ（GPT本体のみ）
